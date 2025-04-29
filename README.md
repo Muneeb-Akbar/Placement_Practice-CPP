@@ -27,7 +27,7 @@ Edit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DSA-Java-Practice.git
+   git clone https://github.com/Muneeb-Akbar/DSA_Practice.git
 Open in your favorite Java IDE.
 
 Navigate to any folder and run the Main.java or specific class file.
