@@ -7,7 +7,7 @@ int main() {
     // cin >> n;
 
     string ans = "";
-
+    
     if (n == 0) {
         ans = "0";
     } else {
